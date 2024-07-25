@@ -1,0 +1,1 @@
+The above files are the coco_puf.py which is the main file and is trained on the train data and tested on the public_test data. The validation code was provided separately which tested the accuracy of the code using their secret data.
